@@ -1,6 +1,7 @@
 body {
 	background-image: url(BowTieJimmy.jpg);
 	background-size: cover;
+	background-position: center;
 	display: flex;
 	flex-wrap: wrap;
 	align-items: center;
